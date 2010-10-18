@@ -1,0 +1,4 @@
+shcheck use openssl to compare sha1 and md5 checksums
+
+USAGE: python3 hashcheck.py <md5/sha1> <file> <checksum>
+
